@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "DevOps" );
         System.out.println( "Money Heist Released" );
+        System.out.println( "Bye" );
     }
 }
